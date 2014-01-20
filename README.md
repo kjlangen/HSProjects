@@ -14,7 +14,6 @@ Sorter
 ======
 
 Sorter_v1
-
 -My own independantly developed sorting algorithm
 
 Sorter_v2
